@@ -1,0 +1,250 @@
+"","date_run","sample_id","absorbance","cdom_values","lake_name_state_id","state","county","date_collected","analysis_requested","date_acidifed","sample_compromised","site_number","lat_dd83","lon_dd83","stratum","panel","area_ha","cntyname","states","draft_desktop_eval_2022","likely_to_sample","public_access","reconn_notes"
+"1","6/29/2022","NLA22-WI-10028",0.1816333333,8.366031333,"Unnamed","WI","Price","6/22/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","6/29/2022","NLA22-MN-10114",0.1041,4.794846,"Little Sand","MN","","6/14/2022","CDOM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","7/14/2022","NLA22-MN-10115",0.02803333333,1.291215333,"","MN","","6/30/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","7/14/2022","NLA22-MN-10118",0.03946666667,1.817834667,"","MN","","6/30/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","7/14/2022","NLA22-MN-10143",0.6442666667,29.67492267,"","MN","","6/30/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","7/14/2022","NLA22-MN-10150",0.06976666667,3.213452667,"","MN","","6/29/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","7/14/2022","NLA22-MN-10161",0.01885,0.868231,"","MN","","6/28/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","7/14/2022","NLA22-MN-10168",0.1317142857,6.06676,"","MN","","7/5/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","7/19/2022","NLA22-MN-10174",0.1689333333,7.781069333,"","MN","","7/13/2022","CDOM","7/15/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","7/14/2022","NLA22-MN-10193",0.76725,35.339535,"","MN","","6/29/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","6/29/2022","NLA22-MN-10195",0.06513333333,3.000041333,"Lake of the Woods","MN","","6/22/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","7/14/2022","NLF22-20004",0.06836666667,3.148968667,"","MN","","7/6/2022","CDOM","","",20004,47.91443069,-90.35935362,"171B","NLFBase",12,"Cook","MN","Sample","X","","reconn access, rough road next to Misquah L."
+"13","7/19/2022","NLF22-20014",0.1971,9.078426,"Beaver Hut","MN","Lake","7/11/2022","CDOM","7/15/2022","",20014,47.73128871,-91.66694026,"171B","NLFBase",22,"Lake","MN","Sample (Reconn access)","X","","tough access, recently surveyed by DNR, contact Finland office"
+"14","7/9/2022","NLF22-20015",0.1052833333,4.849350333,"Wolf Lake","MN","","6/21/2022","CDOM","","",20015,47.79012415,-90.80882055,"171B","NLFBase",4,"Cook","MN","Sample","X","","wetland basin at far end of Rice Lake nr Crescent L."
+"15","7/9/2022","NLF22-20015",0.1052833333,4.849350333,"","MN","Cook","7/12/2022","CDOM","7/15/2022","",20015,47.79012415,-90.80882055,"171B","NLFBase",4,"Cook","MN","Sample","X","","wetland basin at far end of Rice Lake nr Crescent L."
+"16","7/14/2022","NLF22-20020",0.0445,2.04967,"","MN","","7/6/2022","CDOM","","",20020,47.8651178,-90.48900341,"171B","NLFBase",50,"Cook","MN","Sample","X","","Access off The Grade, or portage from Two Island"
+"17","7/14/2022","NLF22-20020",0.0445,2.04967,"","MN","Cook","7/14/2022","CDOM","07/23/2022","",20020,47.8651178,-90.48900341,"171B","NLFBase",50,"Cook","MN","Sample","X","","Access off The Grade, or portage from Two Island"
+"18","7/14/2022","NLF22-20021",0.0377,1.736462,"","MN","","7/6/2022","CDOM","","",20021,48.27089055,-92.20331851,"171B","NLFBase",22,"St. Louis","MN","Inaccessible","","","Pageant Lake, deep in BWCA, creek non passable"
+"19","7/14/2022","NLF22-20025",0.02046666667,0.9426946667,"","MN","","7/6/2022","CDOM","","",20025,47.68530353,-93.16606764,"171B","NLFBase",6,"Itasca","MN","Inaccessible","","",""
+"20","7/14/2022","NLF22-20026",0.02065,0.951139,"","MN","","6/27/2022","CDOM","","",20026,48.05803697,-91.90297755,"171B","NLFBase",10,"St. Louis","MN","Sample","X","","Trease Lake (BWCA), off Hegman access"
+"21","7/14/2022","NLF22-20026",0.02065,0.951139,"","MN","St. Louis","7/28/2022","CDOM","08/05/2022","",20026,48.05803697,-91.90297755,"171B","NLFBase",10,"St. Louis","MN","Sample","X","","Trease Lake (BWCA), off Hegman access"
+"22","7/19/2022","NLF22-20027",0.3223333333,14.84667333,NA,NA,NA,NA,NA,NA,NA,20027,48.04712799,-91.11658444,"171B","NLFBase",4,"Lake","MN","Inaccessible","","","Your Lake deep in BWCA"
+"23","6/29/2022","NLF22-20036",0.01886666667,0.8689986667,"","MN","","6/16/2022","CDOM","","",20036,48.06607097,-90.4218361,"171B","NLF22Over",199,"Cook","MN","Sample","X","","Bearskin Lake, Boat Ramp"
+"24","7/14/2022","NLF22-20042",0.0239,1.100834,"","MN","","6/30/2022","CDOM","","",20042,48.08000689,-91.75942146,"171B","NLF22Over",283,"Lake","MN","Sample","X","","Horse Lake, BWCA, Mudro entry point"
+"25","6/29/2022","NLF22-20050",0.5222333333,24.05406733,"South Sturgeon Lake","MN","","6/6/2022","CDOM","","",20050,47.63712024,-93.06535068,"171B","NLF22Over",81,"Itasca","MN","Sample","X","","S. Sturgeon Lake; boat ramp"
+"26","7/14/2022","NLF22-20181",0.09123333333,4.202207333,"","MN","","7/7/2022","CDOM","","",20181,46.59902515,-92.4646258,"211C","NLFBase",92,"Carlton","MN","Sample","X","","Hay Lake; Boat Ramp S. shore"
+"27","6/29/2022","NLF22-20192",0.0312,1.437072,"Peavy Lake","MN","","6/9/2022","CDOM","","",20192,46.12722756,-93.88457785,"211C","NLFBase",56,"Morrison","MN","Sample","X","","Peavy Lake; boat ramp"
+"28","7/19/2022","NLF22-20294",0.09553333333,4.400265333,NA,NA,NA,NA,NA,NA,NA,20294,46.24197384,-89.96364561,"211D","NLFBase",179,"Iron","WI","Target","TargetSampleable","yes","see lakes page for boat launch info, not on surface data viewer"
+"29","7/19/2022","NLF22-20297",0.0387,1.782522,NA,NA,NA,NA,NA,NA,NA,20297,46.20024539,-89.54919946,"211D","NLFBase",98,"Vilas","WI","Target","Uncertatin-Inaccessible/Effort","yes -ish","Access from Presque Isle River or possibly Raibbo Lodge Ln (46.203510, -89.538892) private land"
+"30","7/19/2022","NLF22-20298",0.01226666667,0.5650026667,NA,NA,NA,NA,NA,NA,NA,20298,46.18182816,-89.79061658,"211D","NLFBase",17,"Vilas","WI","Uncertain","Uncertain-NoPublicAccess","no","several houses on lake"
+"31","7/19/2022","NLF22-20361",0.0556,2.560936,NA,NA,NA,NA,NA,NA,NA,20361,45.62755316,-89.64987363,"211E","NLFBase",10,"Oneida","WI","Uncertain","Uncertain-NoPublicAccess","no","a few houses on lake, highly vegetated, public land on west side of lake but does not look like there is access from the public land"
+"32","6/29/2022","NLF22-20363",0.01696666667,0.7814846667,"","WI","","?","CDOM","","",20363,46.05645416,-89.43752695,"211E","NLFBase",254,"Vilas","WI","Target","TargetSampleable","yes","low water levels might make public launches to shallow, prepare to use canoe if needed"
+"33","7/19/2022","NLF22-20367",0.1358333333,6.256483333,NA,NA,NA,NA,NA,NA,NA,20367,45.87286882,-89.23558887,"211E","NLFBase",9,"Vilas","WI","Uncertain","Uncertain-NoPublicAccess","no","two houses on lake"
+"34","7/14/2022","NLF22-20544",0.02333333333,1.074733333,"Manuka","MI","","6/28/2022","CDOM","07/13/2022","",20544,44.95998,-84.74041805,"211L","NLFBase",64,"Otsego","MI","","","",""
+"35","6/29/2022","NLF22-20634",0.05213333333,2.401261333,"Battle Lake","MN","","6/14/2022","CDOM","","",20634,47.8290094,-93.34050203,"Other","NLFBase",96,"Itasca","MN","Sample","X","","Battle L.; access from channel from Pickerel Lake"
+"36","6/29/2022","NLF22-20654",0.02266666667,1.044026667,"","MN","St. Louis","6/22/2022","CDOM","","",20654,47.28807393,-91.82657392,"Other","NLFBase",15,"St. Louis","MN","Sample","X","","George L; access from road on S. Shore"
+"37","7/19/2022","NLF22-20655",0.0285,1.31271,NA,NA,NA,NA,NA,NA,NA,20655,45.16743531,-88.21407591,"Other","NLFBase",7,"Oconto","WI","Target","TargetSampleable","yes","small boat/trailer parking, surface water veiwer says canoe launch, confirm with local staff if small john boat could be launched or need canoe"
+"38","7/19/2022","NLF22-20675",0.04246666667,1.956014667,"","#N/A","","9/14/22","CDOM","","",20675,45.02073224,-88.46200298,"Other","NLF22Over",16,"Oconto","WI","","","",""
+"39","6/29/2022","NLA22-MN-10132",0.1514666667,6.976554667,"Big Split Hand","MN","","6/14/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","6/29/2022","NLA22-MN-10195-DUP",0.06846666667,3.153574667,"Lake of the Woods, Duplicate","MN","","6/22/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","6/29/2022","NLF22-20363-DUP",0.01653333333,0.7615253333,"","WI","","?","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","9/7/2022","NLF22-20055",0.02323333333,1.070127333,"","MN","Lake","7/18/2022","CDOM","07/23/2022","",20055,47.93756533,-91.55268036,"171B","NLF22Over",119,"Lake","MN","Sample","X","","Triangle Lake off Fernberg Rd.; canoe"
+"43","9/7/2022","NLF22-20038",0.3024666667,13.93161467,"Susan Lake","MN","St. Louis","7/21/2022","CDOM","07/23/2022","",20038,47.98391344,-92.66325504,"171B","NLF22Over",112,"St. Louis","MN","Sample","X","","Susan Lake, nr L. Vermilion, canoe carry down from Co. Rd."
+"44","9/7/2022","NLF22-20020",0.079,3.63874,"","MN","","7/6/2022","CDOM","","",20020,47.8651178,-90.48900341,"171B","NLFBase",50,"Cook","MN","Sample","X","","Access off The Grade, or portage from Two Island"
+"45","9/7/2022","NLF22-20020",0.079,3.63874,"","MN","Cook","7/14/2022","CDOM","07/23/2022","",20020,47.8651178,-90.48900341,"171B","NLFBase",50,"Cook","MN","Sample","X","","Access off The Grade, or portage from Two Island"
+"46","9/7/2022","NLF22-20025",0.0073,0.336238,"","MN","","7/6/2022","CDOM","","",20025,47.68530353,-93.16606764,"171B","NLFBase",6,"Itasca","MN","Inaccessible","","",""
+"47","9/7/2022","NLF22-20055",0.0265,1.22059,"","MN","Lake","7/18/2022","CDOM","07/23/2022","",20055,47.93756533,-91.55268036,"171B","NLF22Over",119,"Lake","MN","Sample","X","","Triangle Lake off Fernberg Rd.; canoe"
+"48","9/7/2022","NLA22-WI-10126",0.01863333333,0.8582513333,"Barber","WI","Sawyer","7/20/22","CDOM","07/23/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","9/7/2022","NLA22-WI-10119",0.3168,14.591808,"Cranberry","WI","Taylor","7/18/22","CDOM","07/23/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","9/7/2022","NLF22-20574",0.0061,0.280966,"Sand Lake","MI","","7/18/2022","CDOM","07/23/2022","",20574,44.32574599,-83.68116188,"211L","NLF22Over",99,"Iosco","MI","","","",""
+"51","9/7/2022","NLA22-WI-10008",0.0166,0.764596,"Ludington","WI","Forest","7/7/2022","CDOM","08/05/2022",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","9/7/2022","NLA22-WI-10026",0.1143333333,5.266193333,"Big Fork","WI","Oneida","7/6/2022","CDOM","08/05/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","9/7/2022","NLA22-WI-10108",0.0659,3.035354,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","9/7/2022","NLA22-MN-10109",0.07826666667,3.604962667,"","MN","","8/2/2022","CDOM","08/05/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","9/7/2022","NLA22-WI-10011",0.2731666667,12.58205667,"Lake Seventeen","WI","Vilas","08/23/22","CDOM","8/26/22","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","9/7/2022","NLA22-WI-10116",0.1111,5.117266,"Meder","WI","Ashland","7/28/2022","CDOM","08/05/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","9/7/2022","NLA22-WI-10124",0.01973333333,0.9089173333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","9/7/2022","NLF22-20008",0.01583333333,0.7292833333,"","MN","Cook","8/2/2022","CDOM","08/05/2022","",20008,48.11305742,-90.61432709,"171B","NLFBase",1,"Ontonagon","MN","Sample","X","","Little Gunlint; coordinate is in channel"
+"59","9/7/2022","NLF22-20010",0.2258666667,10.40341867,"","MN","St. Louis","7/27/2022","CDOM","08/05/2022","",20010,48.05526282,-92.0204122,"171B","NLFBase",66,"St. Louis","MN","Sample","X","","BWCA, 1 portage from Big Lake (Echo Tr.)"
+"60","9/7/2022","NLF22-20026",0.1632666667,7.520062667,"","MN","","6/27/2022","CDOM","","",20026,48.05803697,-91.90297755,"171B","NLFBase",10,"St. Louis","MN","Sample","X","","Trease Lake (BWCA), off Hegman access"
+"61","9/7/2022","NLF22-20026",0.1632666667,7.520062667,"","MN","St. Louis","7/28/2022","CDOM","08/05/2022","",20026,48.05803697,-91.90297755,"171B","NLFBase",10,"St. Louis","MN","Sample","X","","Trease Lake (BWCA), off Hegman access"
+"62","9/7/2022","NLF22-20041",0.0182,0.838292,"","MN","","","CDOM","08/05/2022","",20041,47.46794267,-92.46410483,"171B","NLF22Over",24,"St. Louis","MN","Sample","X","","Deep Lake outside of Eveleth, small boat ramp"
+"63","9/7/2022","NLA22-MN-20047",0.0868,3.998008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","9/7/2022","NLF22-20051",0.0251,1.156106,"","MN","","8/1/2022","CDOM","08/05/2022","",20051,47.67487593,-91.13808583,"171B","NLF22Over",31,"Lake","MN","Sample","X","","Wanless Lake; canoe carry down"
+"65","9/7/2022","NLF22-20059",0.08606666667,3.964230667,"","MN","","7/26/2022","CDOM","7/29/2022","",20059,47.69706895,-91.02758199,"171B","NLF22Over",28,"Lake","MN","Sample","X","","South Wigwam L. ; FR 1226 near Whitefish L."
+"66","9/7/2022","NLF22-20059",0.08606666667,3.964230667,"","MN","","8/1/2022","CDOM","08/05/2022","",20059,47.69706895,-91.02758199,"171B","NLF22Over",28,"Lake","MN","Sample","X","","South Wigwam L. ; FR 1226 near Whitefish L."
+"67","9/7/2022","NLF22-20091",0.02676666667,1.232872667,"","MN","","","CDOM","08/05/2022","",20091,47.21535867,-92.35902625,"171C","NLFBase",3,"St. Louis","MN","Sample","X","","Lake Anne; access via canoe from S. Side of Co. Rd"
+"68","9/7/2022","NLF22-20186",0.01643333333,0.7569193333,"","MN","","8/1/2022","CDOM","08/05/2022","",20186,46.07639116,-91.90194788,"211C","NLFBase",81,"Washburn","WI","Uncertain","Uncertain-NoPublicAccess","no","several houses on lake"
+"69","9/7/2022","NLF22-20698",0.2128666667,9.804638667,NA,NA,NA,NA,NA,NA,NA,20698,47.69012509,-93.40441968,"Other","NLF22Over",35,"Itasca","MN","Sample","X","","Lost Lake; DNR boat ramp, SE Corner"
+"70","9/7/2022","NLA22-MN-10086",0.1787666667,8.233992667,"","MN","","7/27/2022","CDOM","7/29/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","9/7/2022","NLA22-MN-10052",0.05076666667,2.338312667,"","MN","","7/26/2022","CDOM","7/29/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","9/7/2022","NLA22-MN-20059",0.1993,9.179758,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","9/7/2022","NLF22-20472",0.0529,2.436574,"Unknown Lake West","MI","","8/9/2022","CDOM","8/12/2022","",20472,46.54550018,-86.17859585,"211K","NLFBase",1,"Alger","MI","","","",""
+"74","9/7/2022","NLF22-20672",0.04743333333,2.184779333,NA,NA,NA,NA,NA,NA,NA,20672,45.70989371,-87.87401087,"Other","NLF22Over",23,"Marinette","WI","","","",""
+"75","9/7/2022","NLF22-20668",0.07316666667,3.370056667,NA,NA,NA,NA,NA,NA,NA,20668,45.40263302,-87.96239966,"Other","NLFBase",17,"Marinette","WI","Target","TargetSampleable","yes","No wake lake. Shallow, sand launch."
+"76","9/7/2022","NLF22-20659",0.05036666667,2.319888667,NA,NA,NA,NA,NA,NA,NA,20659,45.35538375,-87.90623088,"Other","NLFBase",4,"Marinette","WI","Uncertain","Uncertain-NoPublicAccess","no","several houses on waterbody"
+"77","9/7/2022","NLF22-20031",0.01856666667,0.8551806667,"","MN","Cook","8/9/2022","CDOM","8/12/2022","",20031,48.07811176,-90.24449538,"171B","NLF22Over",25,"Cook","MN","Sample","X","","Gogebic Lake, BWCA, off West Pike"
+"78","9/7/2022","NLA22-WI-10123",0.01473333333,0.6786173333,"Bear","WI","Oneida","8/8/2022","CDOM","8/12/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","9/7/2022","NLA22-WI-10128",0.008066666667,0.3715506667,"Little Spider","WI","Vilas","8/10/22","CDOM","8/12/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","9/7/2022","NLF22-20671",0.01216666667,0.5603966667,"Sand","WI","Marinette","8/8/2022","CDOM","8/12/2022","",20671,45.26806549,-88.26458278,"Other","NLF22Over",9,"Marinette","WI","","","",""
+"81","9/8/2022","NLF22-20549",0.01723333333,0.7937673333,"Welcome Lake","MI","","8/8/2022","CDOM","8/12/2022","",20549,44.39634605,-83.76186161,"211L","NLFBase",12,"Iosco","MI","","","",""
+"82","9/8/2022","NLA22-MN-10030",0.2121333333,9.770861333,"","MN","","8/9/2022","CDOM","8/12/2022",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","9/8/2022","NLF22-20690",0.04886666667,2.250798667,"","MN","Lake","7/25/2022","CDOM","7/29/2022","",20690,47.34508262,-91.270137,"Other","NLF22Over",27,"Lake","MN","Sample","X","","Tetagouche Lake, access from St. Park road"
+"84","9/8/2022","NLF22-20674",0.04186666667,1.928378667,"","MN","","7/27/2022","CDOM","7/29/2022","",20674,47.18726785,-91.75562048,"Other","NLF22Over",95,"Lake","MN","Sample","X","","Stewart Lake, north or Two Harbors, boat ramp"
+"85","9/8/2022","NLF22-20455",0.02573333333,1.185277333,"Brevart Lake","MI","","7/27/2022","CDOM","7/29/2022","",20455,45.99660638,-84.91738279,"211K","NLFBase",1746,"Mackinac","MI","","","",""
+"86","9/8/2022","NLF22-20284",0.2279666667,10.50014467,"Ruth Lake","MI","","7/26/2022","CDOM","7/29/2022","",20284,46.56043491,-88.21914582,"211D","NLFBase",81,"Baraga","MI","","","",""
+"87","9/8/2022","NLF22-20047",0.05546666667,2.554794667,"","MN","Cook","7/27/2022","CDOM","7/29/2022","",20047,48.04590987,-90.32353618,"171B","NLF22Over",7,"Cook","MN","Sample","X","","Small Bay, W. end of Alder Lake; gunflint Tr."
+"88","9/8/2022","NLF22-20047",0.05546666667,2.554794667,"","MN","","8/2/2022","CDOM","08/05/2022","",20047,48.04590987,-90.32353618,"171B","NLF22Over",7,"Cook","MN","Sample","X","","Small Bay, W. end of Alder Lake; gunflint Tr."
+"89","9/8/2022","NLF22-20365",0.1125666667,5.184820667,NA,NA,NA,NA,NA,NA,NA,20365,45.29475709,-89.18421473,"211E","NLFBase",4,"Langlade","WI","Uncertain","Uncertain-NoPublicAccess","no","one building nearby, vegetated"
+"90","9/8/2022","NLA22-WI-10006",0.02253333333,1.037885333,"Lind","WI","Burnett","8/8/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91","9/8/2022","NLA22-WI-10007",0.0138,0.635628,"Fawn","WI","Burnett","8/9/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","9/8/2022","NLA22-WI-10103",0.01713333333,0.7891613333,"Dogtown","WI","Burnett","8/10/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","9/8/2022","NLA22-WI-10130",0.01663333333,0.7661313333,"Ham","WI","Burnett","8/11/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","9/8/2022","NLF22-20274",0.07396666667,3.406904667,"","#N/A","Gogebic","8/9/22","CDOM","","",20274,46.26203614,-89.26404459,"211D","NLFBase",9,"Gogebic","MI","","","",""
+"95","9/8/2022","NLF22-20301",0.0662,3.049172,"","#N/A","Gogebic","8/16/2022","CDOM","","",20301,46.25661717,-89.41064025,"211D","NLF22Over",72,"Gogebic","MI","","","",""
+"96","9/8/2022","NLA22-MI-10022",0.005666666667,0.2610066667,"Fortune Pond","MI","","8/10/22","CDOM","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","9/8/2022","NLF22-20275",0.1771333333,8.158761333,NA,NA,NA,NA,NA,NA,NA,20275,46.71280159,-87.57586938,"211D","NLFBase",60,"Marquette","MI","","","",""
+"98","9/8/2022","NLA22-MI-10120",0.0686,3.159716,"Beaufort Lake","MI","","8/10/22","CDOM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","9/8/2022","NLF22-20657",0.06646666667,3.061454667,"Roland Lake","#N/A","","8/9/22","CDOM","","",20657,46.88846198,-88.85139252,"Other","NLFBase",105,"Houghton","MI","","","",""
+"100","9/8/2022","NLA22-MI-10132",0.03436666667,1.582928667,"Lake Gerald","MI","","8/9/22","CDOM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","9/8/2022","NLA22-MI-10124",0.04996666667,2.301464667,"Gaylord Lake","MI","","8/11/22","CDOM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102","9/9/2022","NLA22-WI-10002",0.03993333333,1.839329333,"Ten","WI","Price","8/11/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103","9/9/2022","NLA22-MN-10007",0.02676666667,1.232872667,"","MN","Lake","8/16/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","9/9/2022","NLF22-20288",0.4254333333,19.59545933,"","#N/A","Iron","8/8/22","CDOM","","",20288,46.32048176,-88.93439831,"211D","NLFBase",4,"Iron","MI","","","",""
+"105","9/9/2022","NLF22 - 20304",0.4602666667,21.19988267,NA,NA,"Ontonogen","8/11/22","CDOM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106","9/9/2022","NLA22-WI-10111",0.3105666667,14.30470067,"Unnamed Lake","WI","Chippewa","7/12/2022","CDOM","7/15/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107","9/9/2022","NLA22-MN-10142",0.3029333333,13.95310933,"","MN","","7/14/2022","CDOM","7/15/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"108","9/9/2022","NLA22-WI-10021",0.03,1.3818,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109","9/9/2022","NLA22-WI-10101",0.08436666667,3.885928667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","9/9/2022","NLA22-WI-10133",0.01006666667,0.4636706667,"Trump","WI","Forest","8/16/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111","9/9/2022","NLF22-20182",0.0213,0.981078,"Park Creek Pond","#N/A","Douglas","8/17/22","CDOM","","",20182,46.34999577,-91.82192364,"211C","NLFBase",4,"Douglas","WI","Uncertain","Uncertain-NoPublicAccess","no","Access likely -Douglas Co. Forestry Dept Building backyard goes to waterbody."
+"112","9/9/2022","NLF22-20198",0.02396666667,1.103904667,"Cheney Lake","#N/A","Douglas","8/17/22","CDOM","","",20198,46.38093365,-91.70168505,"211C","NLFBase",8,"Douglas","WI","Uncertain","TargetSampleable","no","Surrounded by public land, gravel road off of Cheney Lake Rd (46.389158, -91.700658) goes right up to waterbody. Likely could get to this one w/state permissions"
+"113","9/9/2022","NLF22-20302",0.0573,2.639238,"","#N/A","Vilas","8/16/22","CDOM","","",20302,46.24640757,-89.73271606,"211D","NLF22Over",7,"Vilas","WI","","","",""
+"114","9/9/2022","NLF22-20309",0.1486666667,6.847586667,"","#N/A","Ontonogen","8/17/22","CDOM","","",20309,46.34954196,-89.35687966,"211D","NLF22Over",6,"Ontonagon","MI","","","",""
+"115","9/9/2022","NLF22-20313",0.0699,3.219594,"","#N/A","Gogebic","8/17/22","CDOM","","",20313,46.25167792,-89.66836759,"211D","NLF22Over",7,"Gogebic","MI","","","",""
+"116","9/9/2022","NLF22-20315",0.0591,2.722146,"","#N/A","Gogebic","8/18/2022","CDOM","","",20315,46.26339955,-89.08518494,"211D","NLF22Over",120,"Gogebic","MI","","","",""
+"117","9/9/2022","NLF22-20559",0.01383333333,0.6371633333,"Eight Point Lake","#N/A","","8/16/22","CDOM","","",20559,43.83898325,-85.07644699,"211L","NLFBase",166,"Clare","MI","","","",""
+"118","9/9/2022","NLF22-20565",0.1082666667,4.986762667,"Bass Lake","#N/A","","8/17/22","CDOM","","",20565,44.41855923,-83.96929037,"211L","NLFBase",4,"Ogemaw","MI","","","",""
+"119","9/9/2022","NLF22-20687",0.005266666667,0.2425826667,"","#N/A","Oconto","8/16/22","CDOM","","",20687,45.26904168,-88.53713959,"Other","NLF22Over",113,"Oconto","WI","","","",""
+"120","9/9/2022","NLF22-20687-DUP",0.004133333333,0.1903813333,"","#N/A","Oconto","8/16/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","9/9/2022","NLF22-20691",0.015625,0.7196875,"","#N/A","Langlade","8/16/22","CDOM","","",20691,45.24767088,-88.75703721,"Other","NLF22Over",73,"Langlade","WI","","","",""
+"122","9/9/2022","NLF22-20543",0.0085,0.39151,"McWatty Lake","#N/A","","08/23/22","CDOM","8/26/22","",20543,44.03386718,-84.79035222,"211L","NLFBase",9,"Clare","MI","","","",""
+"123","9/9/2022","NLF22-20541",0.0368,1.695008,"Big Twenty Lake","#N/A","","08/23/22","CDOM","8/26/22","",20541,43.94477623,-84.57448581,"211L","NLFBase",44,"Gladwin","MI","","","",""
+"124","9/9/2022","NLF22-20017",0.0629,2.897174,"Quill Lake","#N/A","","08/23/22","CDOM","8/26/22","",20017,48.53323808,-92.94957571,"171B","NLFBase",30,"St. Louis","MN","Sample (Voy. NP)","X","","Quill Lake, VNP trail Locator Lake, need canoe from Park office"
+"125","9/9/2022","NLA22-WI-10011",0.1579333333,7.274409333,"Lake Seventeen","WI","Vilas","08/23/22","CDOM","8/26/22","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126","9/9/2022","NLA22-WI-10117",0.1028,4.734968,"Unnamed","WI","Langlade","8/17/2022","CDOM","8/26/22","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","9/9/2022","NLF22-20566",0.03236666667,1.490808667,"Brooks Lake","MI","","7/19/2022","CDOM","07/23/2022","",20566,43.39831806,-85.74735166,"211L","NLFBase",115,"Newaygo","MI","","","",""
+"128","9/9/2022","NLF22-20364",0.07066666667,3.254906667,"","#N/A","Iron","8/10/22","CDOM","","",20364,46.10257108,-88.75326174,"211E","NLFBase",15,"Iron","MI","","","",""
+"129","9/9/2022","NLA22-WI-10112",0.0158,0.727748,"Little Bass Lake","WI","","08/22/22","CDOM","8/31/22","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130","9/9/2022","NLA22-WI-10002-DUP",0.0429,1.975974,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131","9/9/2022","NLA22-WI-10013",0.0636,2.929416,"1121700","WI","Oneida","8/29/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","9/13/2022","NLA22-WI-10025",0.1846,8.502676,"Knife, 295400","WI","Vilas","8/30/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","9/13/2022","NLA22-WI-10027",0.09316666667,4.291256667,"","WI","","8/25/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","9/13/2022","NLA22-WI-10040",0.0982,4.523092,"","WI","","","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","9/13/2022","NLA22-WI-10107",0.06716666667,3.093696667,"1126200","WI","Oneida","8/29/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136","9/13/2022","NLF22-20185",0.0498,2.293788,"Unnamed/2595600","#N/A","","8/24/22","CDOM","","",20185,46.3635627,-91.57699493,"211C","NLFBase",8,"Douglas","WI","Uncertain","Uncertain-NoPublicAccess","no","dock on south side, vegetated"
+"137","9/13/2022","NLF22-20201",0.0124,0.571144,"Robinson Lake/2743300","#N/A","","8/24/22","CDOM","","",20201,46.32699882,-91.49408279,"211C","NLFBase",37,"Bayfield","WI","Target","TargetSampleable","yes",""
+"138","9/13/2022","NLF22-20681",0.0145,0.66787,"","#N/A","","8/24/22","CDOM","","",20681,45.60248944,-91.58645809,"Other","NLF22Over",922,"Barron","WI","","","",""
+"139","9/13/2022","NLF22-20681-DUP",0.01443333333,0.6647993333,"","#N/A","","8/24/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","9/13/2022","NLF22-20452",0.0165,0.75999,"Tek Lake","#N/A","","8/31/22","CDOM","","",20452,46.49803304,-85.8619103,"211K","NLFBase",9,"Luce","MI","","","",""
+"141","9/13/2022","NLF22-20453",0.4791,22.067346,"No Name","#N/A","","8/31/22","CDOM","","",20453,46.56842824,-85.40965177,"211K","NLFBase",12,"Luce","MI","","","",""
+"142","9/13/2022","NLF22-20460",0.04986666667,2.296858667,"No Name, access via peach lake","#N/A","","8/31/22","CDOM","","",20460,46.63624326,-85.60330854,"211K","NLFBase",10,"Luce","MI","","","",""
+"143","9/13/2022","NLF22-20542",0.01863333333,0.8582513333,"Little Wolf Lake","#N/A","","8/30/22","CDOM","","",20542,44.85664636,-84.2887449,"211L","NLFBase",32,"Montmorency","MI","","","",""
+"144","9/13/2022","NLF22-20548",0.06133333333,2.825013333,"Ingersoll Lake","#N/A","","8/29/2022","CDOM","","",20548,44.56773942,-85.2270795,"211L","NLFBase",9,"Kalkaska","MI","","","",""
+"145","9/13/2022","NLF22-20554",0.02603333333,1.199095333,"Condon Lake","#N/A","","8/29/22","CDOM","","",20554,43.75759921,-85.89819801,"211L","NLFBase",5,"Newaygo","MI","","","",""
+"146","9/13/2022","NLF22-20560",0.01526666667,0.7031826667,"Blue Lake","#N/A","","8/29/22","CDOM","9/2/22","",20560,44.74721551,-85.157567,"211L","NLFBase",11,"Kalkaska","MI","","","",""
+"147","9/13/2022","NLF22-20567",0.0095,0.43757,"Sand Lake","#N/A","","8/29/22","CDOM","","",20567,44.16372035,-85.94090991,"211L","NLFBase",22,"Lake","MI","","","",""
+"148","9/13/2022","NLF22-20575",0.0272,1.252832,"Merrill Lake","#N/A","","8/30/22","CDOM","","",20575,43.80875198,-85.15871599,"211L","NLF22Over",34,"Mecosta","MI","","","",""
+"149","9/13/2022","NLA22-MN-10023",0.03293333333,1.516909333,"","MN","","","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"150","9/13/2022","NLA22-MN-10051",0.02053333333,0.9457653333,"","MN","","8/31/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","9/13/2022","NLF22-20283",0.01683333333,0.7753433333,"Big Bass Lake","#N/A","","8/16/22","CDOM","","",20283,46.30845636,-87.67734629,"211D","NLFBase",57,"Marquette","MI","","","",""
+"152","9/13/2022","NLF22-20287",0.09983333333,4.598323333,"Morbit Lake","#N/A","","8/26/22","CDOM","","",20287,46.27622681,-87.32746332,"211D","NLFBase",14,"Marquette","MI","","","",""
+"153","9/13/2022","NLF22-20292",0.05423333333,2.497987333,"Spies Lake","#N/A","","9/6/22","CDOM","","",20292,46.36690561,-88.40996072,"211D","NLFBase",5,"Iron","MI","","","",""
+"154","9/13/2022","NLF22-20295",0.0527,2.427362,"Unnamed","#N/A","","9/1/22","CDOM","","",20295,46.29483795,-87.34404405,"211D","NLFBase",3,"Marquette","MI","","","",""
+"155","9/13/2022","NLF22-20473",0.04866666667,2.241586667,"","#N/A","","9/1/22","CDOM","","",20473,46.28624575,-85.95041996,"211K","NLFBase",71,"Schoolcraft","MI","","","",""
+"156","9/13/2022","NLF22-20493",0.025,1.1515,"","#N/A","","9/1/22","CDOM","","",20493,45.98244415,-86.02933101,"211K","NLF22Over",356,"Schoolcraft","MI","","","",""
+"157","9/13/2022","NLF22-20493-DUP",0.02396666667,1.103904667,"","#N/A","","9/1/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158","9/13/2022","NLF22-20498",0.007566666667,0.3485206667,"Pete's Lake","#N/A","","9/6/22","CDOM","","",20498,46.22537882,-86.5992032,"211K","NLF22Over",78,"Schoolcraft","MI","","","",""
+"159","9/13/2022","NLF22-20501",0.04956666667,2.283040667,"","#N/A","","9/1/22","CDOM","","",20501,46.24299673,-86.01592962,"211K","NLF22Over",220,"Schoolcraft","MI","","","",""
+"160","9/13/2022","NLF22-20641",0.048,2.21088,"Roland Lake","#N/A","","8/11/22","CDOM","","",20641,46.82189702,-88.17760454,"Other","NLFBase",16,"Baraga","MI","","","",""
+"161","9/21/2022","NLF22-20685",0.07173333333,3.304037333,"","#N/A","","8/30/22","CDOM","","",20685,47.16283774,-88.28606365,"Other","NLF22Over",265,"Houghton","MI","","","",""
+"162","9/21/2022","NLA22-MN-10001",0.04623333333,2.129507333,"","MN","","9/8/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163","9/21/2022","NLA22-MN-10070",0.0454,2.091124,"","MN","","9/7/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","9/21/2022","NLA22-MN-10100",0.01456666667,0.6709406667,"","MN","","9/6/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"165","9/21/2022","NLA22-WI-10100",0.0741,3.413046,"Dorothy","WI","Iron","8/31/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166","9/21/2022","NLA22-WI-10100-DUP",0.07656666667,3.526660667,"Dorothy","WI","Iron","8/31/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","9/21/2022","NLA22-WI-10140",0.2767,12.744802,"Crawford","WI","Vilas","9/1/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"168","9/21/2022","NLA22-WI-10140-DUP",0.2752333333,12.67724733,"Crawford","WI","Vilas","9/1/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169","9/21/2022","NLF22-20189",0.008133333333,0.3746213333,"","#N/A","Bayfield","9/7/22","CDOM","","",20189,46.50080997,-91.30418266,"211C","NLFBase",10,"Bayfield","WI","Uncertain","Uncertatin-Inaccessible/Effort","no","dock on west side, no obvious roads to lake from photos"
+"170","9/21/2022","NLF22-20194",0.02316666667,1.067056667,"Mud","#N/A","Washburn","9/7/2022","CDOM","","",20194,45.8368357,-91.81778295,"211C","NLFBase",458,"Washburn","WI","Target","TargetSampleable","yes",""
+"171","9/21/2022","NLF22-20633",0.0597,2.749782,"","#N/A","Bayfield","9/7/22","CDOM","","",20633,46.38591924,-91.28651409,"Other","NLFBase",3,"Bayfield","WI","Uncertain","Uncertatin-Inaccessible/Effort","no","~200m from reynard lake rd. no houses on waterbody"
+"172","9/21/2022","NLF22-20637",0.02386666667,1.099298667,"Spooner","#N/A","Washburn","9/6/22","CDOM","","",20637,45.72251879,-91.69612213,"Other","NLFBase",1408,"Washburn","WI","Target","TargetSampleable","yes","katie confirm target- large waterbody"
+"173","9/21/2022","NLF22-20653",0.0463,2.132578,"Long","#N/A","Washburn","9/7/2022","CDOM","","",20653,45.74104586,-91.65595906,"Other","NLFBase",51,"Washburn","WI","Uncertain","Uncertain-NoPublicAccess","no -yes on nearby waterbody","conects to long lake 2106800 Washburn Co. launch on long lake, but don’t think it connects. Several houses on mud lake"
+"174","9/21/2022","NLA22-MN-10069",0.1965666667,9.053860667,"","MN","","9/1/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","9/21/2022","NLF22-20184",0.0424,1.952944,"","#N/A","","8/18/22","CDOM","","",20184,46.36976481,-92.74639338,"211C","NLFBase",14,"Pine","MN","Sample","X","","Johnson L.; access off of Lakeland Rd/ #46 ; canoe"
+"176","9/21/2022","NLF22-20196",0.1113,5.126478,NA,NA,NA,"9/1/22",NA,NA,NA,20196,46.43109794,-93.92039711,"211C","NLFBase",18,"Crow Wing","MN","Reconn needed; private","","","contact gravel pit owner on N. Shore of lake"
+"177","9/21/2022","NLA22-MN-10024",0.03323333333,1.530727333,"","MN","","9/13/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"178","9/21/2022","NLA22-MN-10067",0.02233333333,1.028673333,"","MN","","9/13/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"179","9/21/2022","NLF22-20670",0.04596666667,2.117224667,"","#N/A","","","CDOM","","",20670,46.77662468,-92.41762845,"Other","NLFBase",9,"St. Louis","MN","Sample","X","","Twin Lake; access on N. shore from Morris Thomas Rd."
+"180","9/21/2022","NLF22-20688",0.3371,15.526826,"","#N/A","","","CDOM","","",20688,46.76864535,-92.81409508,"Other","NLF22Over",10,"St. Louis","MN","Sample","X","","36 lake; canoe access off Co Rd. 224 ; State Forest Rd dead end"
+"181","9/21/2022","NLA22-WI-10113",0.02813333333,1.295821333,"Long","WI","Florence","9/13/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"182","9/21/2022","NLF22-20183",0.01276666667,0.5880326667,"","#N/A","","9/13/2022","CDOM","","",20183,45.94460641,-92.16551447,"211C","NLFBase",5,"Burnett","WI","Uncertain","Uncertain-NoPublicAccess","no","highly vegetated"
+"183","9/21/2022","NLF22-20183-DUP",0.01333333333,0.6141333333,"","#N/A","","9/13/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"184","9/21/2022","NLF22-20190",0.0301,1.386406,"","#N/A","","9/13/2022","CDOM","","",20190,46.13097525,-92.04082226,"211C","NLFBase",11,"Washburn","WI","Uncertain","Uncertain-NoPublicAccess","no","several houses on lake"
+"185","9/21/2022","NLF22-20197",0.0636,2.929416,"Indian School Lake","#N/A","Sawyer","9/12/22","CDOM","","",20197,46.03310978,-91.47735395,"211C","NLFBase",26,"Sawyer","WI","Uncertain","Uncertatin-Inaccessible/Effort","no","Likely inaccessible. Surface water viewer has road leading to waterbody, not visable on google maps."
+"186","9/21/2022","NLF22-20205",0.0084,0.386904,"W. Eight Mile Lake","#N/A","Bayfield","9/13/22","CDOM","","",20205,46.42337768,-91.47989412,"211C","NLFBase",6,"Bayfield","WI","Uncertain","Uncertain-NoPublicAccess","no","gravel road goes to waterbody, permission needed to access waterbody"
+"187","9/21/2022","NLF22-20684",0.06573333333,3.027677333,"Smith","#N/A","Marinette","9/12/22","CDOM","","",20684,45.64492959,-87.91611232,"Other","NLF22Over",8,"Marinette","WI","","","",""
+"188","11/22/2022","NLF22-20311",0.004633333333,0.2134113333,"","#N/A","","9/13/22","CDOM","","",20311,46.26664627,-87.5760376,"211D","NLF22Over",36,"Marquette","MI","","","",""
+"189","11/22/2022","NLF22-20454",0.002783333333,0.1282003333,"Byers Lake","#N/A","","10/11/22","CDOM","10/14/22","",20454,46.20935952,-86.48665423,"211K","NLFBase",64,"Schoolcraft","MI","","","",""
+"190","11/22/2022","NLF22-20466",0.0292,1.344952,"Cranberry Lake","#N/A","","9/27/22","CDOM","10/14/22","",20466,46.1882686,-86.71786652,"211K","NLFBase",7,"Alger","MI","","","",""
+"191","11/22/2022","NLF22-20482",0.01556666667,0.7170006667,"Wheelbarrow Lake","#N/A","","9/29/22","CDOM","10/14/22","",20482,46.26202156,-86.75184306,"211K","NLF22Over",21,"Alger","MI","","","",""
+"192","11/22/2022","NLF22-20490",0.003833333333,0.1765633333,"Strouble Lake","#N/A","","10/12/22","CDOM","10/14/22","",20490,46.14721773,-85.19418173,"211K","NLF22Over",141,"Mackinac","MI","","","",""
+"193","11/22/2022","NLF22-20193",0.008566666667,0.3945806667,"","#N/A","Burnett","9/27/22","CDOM","","",20193,45.99070556,-92.32824802,"211C","NLFBase",90,"Burnett","WI","Target","TargetSampleable","yes","canoe access only, would need to paddel 0.7miles from launch to waterbody. Might be able to launch from Falk Lake with motor boat and drive north to Minerva Lake. Check waterbody conectivty from briged on Haden Lake Rd 45.983663, -92.317347"
+"194","12/5/2022","NLA22-WI-10032",0.03043333333,7.008796667,"Taylor","WI","Bayfield","06/21/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"195","12/5/2022","NLF22-20272",0.0351,8.08353,"","#N/A","Iron","8/15/22","CDOM","","",20272,46.37781046,-88.81823204,"211D","NLFBase",15,"Iron","MI","","","",""
+"196","12/5/2022","NLF22-20311",0.0111,2.55633,"","#N/A","","9/13/22","CDOM","","",20311,46.26664627,-87.5760376,"211D","NLF22Over",36,"Marquette","MI","","","",""
+"197","12/5/2022","NLF22-20459",0.0125,2.87875,"Peck and Rye","#N/A","","10/12/22","CDOM","10/14/22","",20459,46.3971915,-84.96693777,"211K","NLFBase",5,"Chippewa","MI","","","",""
+"198","12/5/2022","NLF22-20482",0.0168,3.86904,"Wheelbarrow Lake","#N/A","","9/29/22","CDOM","10/14/22","",20482,46.26202156,-86.75184306,"211K","NLF22Over",21,"Alger","MI","","","",""
+"199","12/5/2022","NLF22-20490",0.01486666667,3.423793333,"Strouble Lake","#N/A","","10/12/22","CDOM","10/14/22","",20490,46.14721773,-85.19418173,"211K","NLF22Over",141,"Mackinac","MI","","","",""
+"200","12/5/2022","NLF22-20558",0.005733333333,1.320386667,"Crooked","MI","","7/6/2022","CDOM","07/13/2022","",20558,44.97705118,-84.1518936,"211L","NLFBase",44,"Montmorency","MI","","","",""
+"201","12/5/2022","NLF22-20055-DUP",0.0064,1.47392,"","MN","Lake","7/18/2022","CDOM","07/23/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"202","11/9/2022","NLA22-MN-10084",0.04383333333,2.018963333,"","MN","","9/20/2022","CDOM","9/23/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"203","11/7/2022","NLA22-MN-10129",0.016,0.73696,"North Twin","MN","","9/28/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"204","11/7/2022","NLA22-MN-10148",0.08446666667,3.890534667,"","MN","","9/28/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"205","11/7/2022","NLA22-MN-10164",0.01636666667,0.7538486667,"Island","MN","","9/29/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"206","11/7/2022","NLA22-MN-10172",0.0154,0.709324,"Movil","MN","","9/29/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"207","11/7/2022","NLA22-MN-10180",0.1091666667,5.028216667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208","11/7/2022","NLA22-MN-10189",0.05676666667,2.614672667,"Frieland","MN","","9/28/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"209","11/7/2022","NLF22-20037",0.1480666667,6.819950667,NA,NA,NA,"9/29/22","CDOM",NA,NA,20037,48.28101326,-92.276924,"171B","NLF22Over",11,"St. Louis","MN","Inaccessible","","",""
+"210","11/7/2022","NLF22-20072",0.0129,0.594174,"Toad","MN","","9/28/22","CDOM","",NA,20072,48.12862045,-91.0977391,"171B","NLF22Over",8,"Lake","MN","","","",""
+"211","11/7/2022","NLF22-20075",0.0437,2.012822,"Nord","MN","","9/29/22","CDOM","","",20075,48.30021425,-92.61519666,"171B","NLF22Over",61,"St. Louis","MN","","","",""
+"212","11/7/2022","NLA22-WI-10039",0.0633,2.915598,"Unnamed","WI","Rusk","9/20/2022","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"213","11/9/2022","NLA22-WI-10042",0.0135,0.62181,"Clara Lake","WI","Lincoln","9/14/2022","CDOM","9/23/2022","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214","11/7/2022","NLF22-20200-DUPb",0.0149,0.686294,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"215","11/7/2022","NLF22-20200b",0.01366666667,0.6294866667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"216","11/7/2022","NLF22-20454",0.02613333333,1.203701333,"Byers Lake","#N/A","","10/11/22","CDOM","10/14/22","",20454,46.20935952,-86.48665423,"211K","NLFBase",64,"Schoolcraft","MI","","","",""
+"217","11/7/2022","NLF22-20459",0.05906666667,2.720610667,"Peck and Rye","#N/A","","10/12/22","CDOM","10/14/22","",20459,46.3971915,-84.96693777,"211K","NLFBase",5,"Chippewa","MI","","","",""
+"218","11/7/2022","NLF22-20466",0.1782,8.207892,"Cranberry Lake","#N/A","","9/27/22","CDOM","10/14/22","",20466,46.1882686,-86.71786652,"211K","NLFBase",7,"Alger","MI","","","",""
+"219","11/7/2022","NLF22-20482",0.09003333333,4.146935333,"Wheelbarrow Lake","#N/A","","9/29/22","CDOM","10/14/22","",20482,46.26202156,-86.75184306,"211K","NLF22Over",21,"Alger","MI","","","",""
+"220","11/7/2022","NLF22-20490",0.0308,1.418648,"Strouble Lake","#N/A","","10/12/22","CDOM","10/14/22","",20490,46.14721773,-85.19418173,"211K","NLF22Over",141,"Mackinac","MI","","","",""
+"221","11/7/2022","NLF22-20043",0.2322333333,10.69666733,"","#N/A","","9/28/22","CDOM","","",20043,48.06750132,-91.2262194,"171B","NLF22Over",17,"Lake","MN","Inaccessible","","","Kettle Lake, BWCA; too far in"
+"222","11/7/2022","NLF22-20063",0.01533333333,0.7062533333,"","#N/A","","9/28/22","CDOM","","",20063,47.95419751,-90.52751667,"171B","NLF22Over",81,"Cook","MN","Sample","X","","Swan L., BWCA; Bower Trout Entry Point"
+"223","11/7/2022","NLF22-20068",0.08736666667,4.024108667,"","#N/A","","9/28/22","CDOM","","",20068,47.66770856,-91.11584152,"171B","NLF22Over",105,"Lake","MN","Sample","X","","Harriet Lake, off Lake Co. Rd. 7; boat ramp"
+"224","11/7/2022","NLF22-20187",0.06416666667,2.955516667,"","#N/A","Burnett","9/27/22","CDOM","","",20187,45.83486981,-92.18411729,"211C","NLFBase",27,"Burnett","WI","Uncertain","Uncertain-NoPublicAccess","no","several houses on lake"
+"225","11/7/2022","NLF22-20193",0.0227,1.045562,"","#N/A","Burnett","9/27/22","CDOM","","",20193,45.99070556,-92.32824802,"211C","NLFBase",90,"Burnett","WI","Target","TargetSampleable","yes","canoe access only, would need to paddel 0.7miles from launch to waterbody. Might be able to launch from Falk Lake with motor boat and drive north to Minerva Lake. Check waterbody conectivty from briged on Haden Lake Rd 45.983663, -92.317347"
+"226","11/7/2022","NLF22-20200",0.014,0.64484,"Sugar Lake","#N/A","","9/28/22","CDOM","","",20200,46.41546167,-93.4730853,"211C","NLFBase",169,"Aitkin","MN","Sample","","","Sugar L.; boat ramp"
+"227","11/7/2022","NLF22-20200-DUP",0.0435,2.00361,"Sugar Lake","#N/A","","9/28/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"228","11/9/2022","NLF22-20271",0.01246666667,0.5742146667,"McQuisten Rec Area","#N/A","","9/16/2022","CDOM","9/23/2022","",20271,46.37692457,-86.61693905,"211D","NLFBase",2,"Alger","MI","","","",""
+"229","11/7/2022","NLF22-20275",0.022,1.01332,NA,NA,NA,NA,NA,NA,NA,20275,46.71280159,-87.57586938,"211D","NLFBase",60,"Marquette","MI","","","",""
+"230","11/9/2022","NLF22-20303",0.02316666667,1.067056667,"Au Train Lake","#N/A","","9/19/2022","CDOM","9/23/2022","",20303,46.39890069,-86.84223243,"211D","NLF22Over",342,"Alger","MI","","","",""
+"231","11/7/2022","NLF22-20311",0.0126,0.580356,"","#N/A","","9/13/22","CDOM","","",20311,46.26664627,-87.5760376,"211D","NLF22Over",36,"Marquette","MI","","","",""
+"232","11/9/2022","NLF22-20470",0.0308,1.418648,"Big Island Lake","MI","","9/19/2022","CDOM","9/23/2022","",20470,46.23951347,-86.54516227,"211K","NLFBase",57,"Schoolcraft","MI","","","",""
+"233","11/9/2022","NLF22-20481",0.1249666667,5.755964667,"Sand Lake","#N/A","","9/15/2022","CDOM","9/23/2022","",20481,46.26165288,-86.4209008,"211K","NLF22Over",46,"Schoolcraft","MI","","","",""
+"234","11/9/2022","NLF22-20486",0.0197,0.907382,"Triangle Lake","#N/A","","9/15/2022","CDOM","9/23/2022","",20486,46.16800326,-86.50312046,"211K","NLF22Over",70,"Schoolcraft","MI","","","",""
+"235","11/9/2022","NLF22-20502",0.006233333333,0.2871073333,"Browns","#N/A","","9/22/2022","CDOM","9/27/2022","",20502,46.00872351,-85.64546611,"211K","NLF22Over",14,"Mackinac","MI","","","",""
+"236","11/9/2022","NLF22-20550",0.02186666667,1.007178667,"Youngs Lake","#N/A","","9/16/2022","CDOM","9/27/2022","",20550,43.74515703,-85.42737003,"211L","NLFBase",52,"Mecosta","MI","","","",""
+"237","11/9/2022","NLF22-20550b",0.0215,0.99029,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"238","11/7/2022","NLF22-20656",0.01636666667,0.7538486667,NA,NA,NA,NA,NA,NA,NA,20656,45.88003775,-88.07379672,"Other","NLFBase",17,"Dickinson","MI","","","",""
+"239","11/9/2022","NLF22-20658",0.1245333333,5.736005333,"Siskiwií","#N/A","Bayfield","9/19/2022","CDOM","9/23/2022","",20658,46.79499063,-91.12953555,"Other","NLFBase",115,"Bayfield","WI","Target","TargetSampleable","yes",""
+"240","11/9/2022","NLF22-20658",0.1245333333,5.736005333,"","#N/A","","10/4/22","CDOM","","",20658,46.79499063,-91.12953555,"Other","NLFBase",115,"Bayfield","WI","Target","TargetSampleable","yes",""
+"241","11/9/2022","NLF22-20676",0.0862,3.970372,"Calkins","#N/A","Chippewa","9/21/2022","CDOM","9/27/2022","",20676,45.26808533,-91.44198869,"Other","NLF22Over",18,"Chippewa","WI","","","",""
+"242","11/7/2022","NLF22-20686",0.05256666667,2.421220667,"Hartley Pond","#N/A","","9/26/22","CDOM","","",20686,46.83749188,-92.08879795,"Other","NLF22Over",5,"St. Louis","MN","Sample","X","","Hartley Pond, Hartley Park, Duluth"
+"243","11/9/2022","NLF22-20692",0.03386666667,1.559898667,"Round","#N/A","Chippewa","9/21/2022","CDOM","9/27/2022","",20692,45.25395863,-91.45125289,"Other","NLF22Over",87,"Chippewa","WI","","","",""
+"244","11/7/2022","NLF22-20693",0.1328666667,6.119838667,"Lily Lake","#N/A","","9/27/22","CDOM","","",20693,47.80530002,-93.26188129,"Other","NLF22Over",6,"Itasca","MN","Sample; reconn","","","Lily Lake, private; access off MN Hwy 1 or flaming pine youth camp"
+"245","11/7/2022","NLF22-20693-DUP",0.1355666667,6.244200667,"Lily Lake","#N/A","","9/27/22","CDOM","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"246","9/7/2022","NLA22-WI-10110",0.04096666667,1.886924667,"Inch","WI","Bayfield","7/26/2022","CDOM","08/05/2022","Sample left at room temp for a couple days",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"247","9/7/2022","NLA22-WI-10114",0.4543333333,20.92659333,"Duck","WI","Bayfield","7/27/2022","CDOM","08/05/2022","Sample left at room temp for a couple days",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"248","9/13/2022","NLF22-20191",0.01893333333,0.8720693333,"Spring","WI","Washburn","8/30/22","CDOM","","Samples room temp on arrival to FOC-CM",20191,45.92131971,-91.68378858,"211C","NLFBase",83,"Washburn","WI","Target","TargetSampleable","yes",""
+"249","9/21/2022","NLF22-20661",0.042,1.93452,"","#N/A","","9/7/22","CDOM","","samples were lukewarm on arrival - 9/12/22",20661,47.82229953,-94.86353305,"Other","NLFBase",11,"Beltrami","MN","Reconn; Tribal","","","Head L; Red Lake Nation"
