@@ -53,21 +53,26 @@ library(lubridate)
 # phosphorus <- read.csv("~/GitHubRepos/FinlayLab/Project Code/NLF_NLA_2022/NLANLF_TDP_SRP_KKH.csv")
 # write.csv(phosphorus, file="~/GitHubRepos/CodeReview/NLFData/phosphorus.csv")
 
-#match column names for join####
-cdom <- read.csv("NLFData/cdom.csv")
-nlanlf <- read.csv("NLFData/nlanlf.csv")
-
-nlanlfcdom <- nlanlf %>% subset(analysis_requested == "CDOM")
-
-#rename columns appropriately
-names(nlanlf)[names(nlanlf)=="date_acidifed"] = "date_acidified"
-names(cdom)[names(cdom)=="site_id"] = "sample_id"
-
-all3 <- cdom %>% full_join(nlanlfcdom, by = "sample_id") #278, 12
+# #match column names for join####
+# cdom <- read.csv("NLFData/cdom.csv")
+# nlanlf <- read.csv("NLFData/nlanlf.csv")
+# 
+# nlanlfcdom <- nlanlf %>% subset(analysis_requested == "CDOM")
+# 
+# #rename columns appropriately
+# names(nlanlf)[names(nlanlf)=="date_acidifed"] = "date_acidified"
+# names(cdom)[names(cdom)=="site_id"] = "sample_id"
+# 
+# all3 <- cdom %>% full_join(nlanlfcdom, by = "sample_id") #278, 12
 
 #write.csv(all3, file="~/GitHubRepos/FinlayLab/Project Code/NLF_NLA_2022/output/combineddata.csv")
 
 upaddinfo <- read.csv("NLFData/upaddinfo.csv")
+head(upaddinfo)
+
+cdomplot <- upaddinfo %>% ggplot(aes(x=lat_dd83, y=cdom_values)) + geom_point()
+cdomplot
+
 
 #add in shimadzu data####
 shim_aug16 <- read.csv("NLFData/shim_aug16.csv")
@@ -151,8 +156,9 @@ help <- shimdups[order(shimdups$sample_id),]
 #Phosphorus Data####
 #may302023
 phosphorus <- read.csv("NLFData/phosphorus.csv")
+head(p_test)
 
-a <- phosphorus %>% clean_names() %>% 
+a <- p_test %>% clean_names() %>% 
   group_by(sample) %>%
   filter(n()>2)
 
@@ -194,6 +200,7 @@ forview2 <- subset(forview, forview$TDP_ugperL < forview$SRP_ugperL)
 
 #remove standards from data
 p_nostandard <- p_fix[!grepl("STAND", p_fix$sample_id),]
+head(p_nostandard)
 
 #time to join!!!####
 #start with the Shimadzu data
